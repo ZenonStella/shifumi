@@ -9,3 +9,8 @@ img {
 #text {
     height: 10%;
 }
+@media screen and (max-width: 400px){
+    h1, h2, div {
+        font-size: .9em;
+    }
+}
